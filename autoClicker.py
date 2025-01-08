@@ -5,7 +5,7 @@ install python @ python.org
 open up cmd type these commands: "pip install pyautogui", and "pip install keyboard"
 I believe time is preinstalled but if not just pip install it
 then your python auto clicker should be ready to use!
-script by BetterBrowse~
+script by oliver
 '''
 import pyautogui
 import keyboard
